@@ -19,7 +19,7 @@ def divisors(num):
             
     return mylist
 
-print(divisors(128))
+print(divisors(28))
         
             #apend i to the list you set up
             
